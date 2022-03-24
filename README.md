@@ -5,7 +5,7 @@
 
 <div align="center">
  
-  <img alt="Natours" src="https://raw.githubusercontent.com/arthurhl/Nexter/master/img/3%20Device%20MashupNexter.png">
+  <img alt="Natours" src="https://raw.githubusercontent.com/arthurhl/Natours/master/img/3%20Device%20MashupNatours.png">
   
   
   </div>
